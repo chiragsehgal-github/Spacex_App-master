@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spacex_App-master/static/css/main.90d76699.chunk.css",
+    "main.js": "/Spacex_App-master/static/js/main.8a6a7e29.chunk.js",
+    "main.js.map": "/Spacex_App-master/static/js/main.8a6a7e29.chunk.js.map",
+    "runtime~main.js": "/Spacex_App-master/static/js/runtime~main.34439bc5.js",
+    "runtime~main.js.map": "/Spacex_App-master/static/js/runtime~main.34439bc5.js.map",
+    "static/js/2.e00e8863.chunk.js": "/Spacex_App-master/static/js/2.e00e8863.chunk.js",
+    "static/js/2.e00e8863.chunk.js.map": "/Spacex_App-master/static/js/2.e00e8863.chunk.js.map",
+    "index.html": "/Spacex_App-master/index.html",
+    "precache-manifest.76abf3ba6a15658abca0c9a1090c2d96.js": "/Spacex_App-master/precache-manifest.76abf3ba6a15658abca0c9a1090c2d96.js",
+    "service-worker.js": "/Spacex_App-master/service-worker.js",
+    "static/css/main.90d76699.chunk.css.map": "/Spacex_App-master/static/css/main.90d76699.chunk.css.map"
+  }
+}
